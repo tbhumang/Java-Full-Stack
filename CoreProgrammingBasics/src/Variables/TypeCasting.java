@@ -8,7 +8,7 @@ public class TypeCasting {
 		float f = (float) d;
 
 		System.out.println(i);
-		System.out.println(f);
+		System.out.println(f); // print 
 
 	}
 }
