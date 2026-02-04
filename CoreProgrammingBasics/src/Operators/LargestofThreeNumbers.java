@@ -9,7 +9,7 @@ public class LargestofThreeNumbers {
 		else if (b >= a && b >= c)
 		    System.out.println(b);
 		else
-		    System.out.println(c);
+		    System.out.println(c); 
 
 	}
 }
